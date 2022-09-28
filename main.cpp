@@ -7,6 +7,11 @@ using namespace std;
 using namespace Eigen;
 int main(void)
 {
+	cout<<" Trabalho 1-Etapa "<<endl;
+	cout<<"Disciplina: Computação Gráfica"<<endl;
+	cout<<"integrantes: José Henrique e Mauro"<<endl;
+	getchar();
+	system("cls");
 	int op_menu, seg, op_transf;
 	string imagem;
 	///imagem de entrada
